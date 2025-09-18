@@ -31,6 +31,14 @@ Launch terminal or command prompt.
 
 Go to the directory you stored the file.
 
+type python nectar bee game.py and enter
+
+now you can play the game 
+
+hope you enjoy
+
+I just added some screenshots regarding the info or snippets in or during the main menu and maybe in the future I will add some other features.
+
 Then enter this and press Enter:
 
 have fun :)
